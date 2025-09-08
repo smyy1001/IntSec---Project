@@ -1,0 +1,10 @@
+2025-07-06 17:16:30 - 🚀 Starting attack simulation...
+2025-07-06 17:16:31 - [FAIL] admin:admin123
+2025-07-06 17:16:33 - [FAIL] root:toor
+2025-07-06 17:16:35 - [FAIL] test:testpass
+2025-07-06 17:16:37 - [FAIL] user:letmein
+2025-07-06 17:16:39 - [FAIL] ubuntu:password
+2025-07-06 17:16:42 - [FAIL] cowrie:123456
+2025-07-06 17:16:44 - [FAIL] admin:qwerty
+2025-07-06 17:16:46 - [FAIL] oracle:oracle123
+2025-07-06 17:16:47 - ✅ Attack simulation completed.
